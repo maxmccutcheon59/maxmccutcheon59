@@ -1,16 +1,24 @@
-## Hi there 👋
+# Max McCutcheon
 
-<!--
-**maxmccutcheon59/maxmccutcheon59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science sophomore at James Madison University.
 
-Here are some ideas to get you started:
+Targeting **Summer 2027** internships in software engineering, AI/ML, and systems/infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Python, C++, Linux
+- Data structures and algorithms
+- Systems programming and infrastructure
+- Machine learning fundamentals
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [syslens](https://github.com/maxmccutcheon59/syslens) | CLI toolkit for Linux process and system introspection via `/proc` |
+| [traintrack](https://github.com/maxmccutcheon59/traintrack) | Minimal PyTorch training and evaluation pipeline |
+
+## Contact
+
+- GitHub: [maxmccutcheon59](https://github.com/maxmccutcheon59)
+- LinkedIn: [Max McCutcheon](https://www.linkedin.com/in/max-mccutcheon-785399394/)
