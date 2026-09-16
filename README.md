@@ -20,6 +20,7 @@ Targeting **Summer 2027** internships in software engineering, systems/infrastru
 | [syslens](https://github.com/maxmccutcheon59/syslens) | (`v0.2.0`) — `/proc` introspection CLI; module split, `--json`, sort/filter/limit |
 | [traintrack](https://github.com/maxmccutcheon59/traintrack) | (`v0.2.0`) — minimal PyTorch train → checkpoint → eval (MNIST / Fashion-MNIST); smoke config + eval `--json` |
 | [forgepath](https://github.com/maxmccutcheon59/forgepath) | Local SQLite CLI for internship applications — status history, follow-ups, CSV/JSON export/import |
+| [grindpath](https://github.com/maxmccutcheon59/grindpath) | **v0.1.0** — structured DSA practice (arrays, trees, graphs, DP) with complexity notes + pytest |
 
 ## Contact
 
