@@ -16,10 +16,12 @@ Targeting **Summer 2027** internships in software engineering, systems/infrastru
 | Project | Description |
 |---------|-------------|
 | [watchwire](https://github.com/maxmccutcheon59/watchwire) | **Flagship** (`v0.4.0`) — local-first defensive CLI + Action + pre-commit; policy packs, JSON/SARIF secret scan, `/proc` hygiene, permission checks |
-| [sysguard](https://github.com/maxmccutcheon59/sysguard) | Linux runtime visibility and defensive policy checks (open FDs, setuid, world-writable paths, SSH mode warnings) |
-| [syslens](https://github.com/maxmccutcheon59/syslens) | CLI toolkit for Linux process and system introspection via `/proc` |
-| [traintrack](https://github.com/maxmccutcheon59/traintrack) | Minimal PyTorch train → checkpoint → eval pipeline (MNIST / Fashion-MNIST) |
-| [forgepath](https://github.com/maxmccutcheon59/forgepath) | (`v0.3.0`) — local SQLite internship tracker; init/stats, follow-ups, CSV/JSON, `--json` CLI |
+| [sysguard](https://github.com/maxmccutcheon59/sysguard) | (`v0.2.0`) — Linux runtime visibility + defensive policy checks; JSON CLI for `proc` / `ports` / `check` |
+| [syslens](https://github.com/maxmccutcheon59/syslens) | (`v0.2.0`) — `/proc` introspection CLI; module split, `--json`, sort/filter/limit |
+| [proclight](https://github.com/maxmccutcheon59/proclight) | (`v0.1.0`) — C++17 Linux `/proc` process lister; `--json`, CMake + CI |
+| [traintrack](https://github.com/maxmccutcheon59/traintrack) | (`v0.2.0`) — minimal PyTorch train → checkpoint → eval; smoke config + eval `--json` |
+| [forgepath](https://github.com/maxmccutcheon59/forgepath) | (`v0.3.0`) — local SQLite internship tracker; init/stats, follow-ups, CSV/JSON |
+| [grindpath](https://github.com/maxmccutcheon59/grindpath) | (`v0.1.0`) — structured DSA practice with complexity notes + pytest |
 
 ## Contact
 
