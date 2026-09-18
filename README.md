@@ -9,6 +9,7 @@ Seeking **Summer 2027** software engineering / systems internships.
 | Repository | Description |
 |------------|-------------|
 | [spindle](https://github.com/maxmccutcheon59/spindle) | LSM-tree key-value storage engine in Rust + [Spindle Cloud](https://maxmccutcheon59.github.io/spindle/) — WAL, SSTables, leveled compaction, MVCC, crash recovery |
+| [trailboard](https://github.com/maxmccutcheon59/trailboard) | Local-first internship Kanban (TypeScript/React) — pipeline tracking, JSON import/export, client persistence |
 | [watchwire](https://github.com/maxmccutcheon59/watchwire) | Local-first defensive CLI — secret scanning (JSON/SARIF), process hygiene, permission checks |
 
 ## Contact
