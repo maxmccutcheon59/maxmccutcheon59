@@ -1,30 +1,19 @@
 # Max McCutcheon
 
-CS sophomore at James Madison University. Building systems software in **Rust** and **C++**, plus local-first defensive tooling on Linux.
+Computer Science, James Madison University (Sophomore). Systems software and infrastructure.
 
-Targeting **Summer 2027** internships in software engineering, systems/infrastructure, and platform.
+Seeking **Summer 2027** software engineering / systems internships.
 
-## Focus
+## Selected work
 
-- Storage engines and systems programming (LSM-trees, WAL, crash recovery)
-- Linux `/proc` and defensive local tooling (not offensive security)
-- Rust, C++17, Python
-- Data structures and algorithms (deliberate practice)
+| Repository | Description |
+|------------|-------------|
+| [spindle](https://github.com/maxmccutcheon59/spindle) | LSM-tree key-value storage engine in Rust — WAL, SSTables, leveled compaction, MVCC, crash recovery |
+| [watchwire](https://github.com/maxmccutcheon59/watchwire) | Local-first defensive CLI — secret scanning (JSON/SARIF), process hygiene, permission checks |
+| [proclight](https://github.com/maxmccutcheon59/proclight) | C++17 Linux `/proc` process lister with fixture-based tests and CI |
 
-## Projects
-
-| Project | What it is |
-|---------|------------|
-| [spindle](https://github.com/maxmccutcheon59/spindle) | **Systems deep-dive** — LSM-tree KV store in Rust (WAL, SSTables, leveled compaction, MVCC, crash tests) |
-| [watchwire](https://github.com/maxmccutcheon59/watchwire) | Local-first defensive CLI — secret scan (JSON/SARIF), `/proc` hygiene, permission checks; Action + pre-commit |
-| [proclight](https://github.com/maxmccutcheon59/proclight) | Minimal C++17 `/proc` process lister — injectable fixtures, `--json`, CMake + CI |
-| [grindpath](https://github.com/maxmccutcheon59/grindpath) | Structured DSA practice — original solutions with complexity notes + pytest |
-| [forgepath](https://github.com/maxmccutcheon59/forgepath) | Local SQLite internship tracker — status history, follow-ups, import/export |
-| [traintrack](https://github.com/maxmccutcheon59/traintrack) | Minimal PyTorch train → checkpoint → eval pipeline |
-
-Archived earlier experiments (superseded by the projects above): [sysguard](https://github.com/maxmccutcheon59/sysguard), [syslens](https://github.com/maxmccutcheon59/syslens).
+Also: [grindpath](https://github.com/maxmccutcheon59/grindpath) (DSA practice), [forgepath](https://github.com/maxmccutcheon59/forgepath) (application tracker), [traintrack](https://github.com/maxmccutcheon59/traintrack) (PyTorch train/eval loop).
 
 ## Contact
 
-- GitHub: [maxmccutcheon59](https://github.com/maxmccutcheon59)
-- LinkedIn: [Max McCutcheon](https://www.linkedin.com/in/max-mccutcheon-785399394/)
+[GitHub](https://github.com/maxmccutcheon59) · [LinkedIn](https://www.linkedin.com/in/max-mccutcheon-785399394/)
