@@ -1,27 +1,28 @@
 # Max McCutcheon
 
-CS sophomore at James Madison University. Building **defensive systems** tooling on Linux — local-first visibility, policy checks, and practical ML pipelines.
+CS sophomore at James Madison University. Building systems software in **Rust** and **C++**, plus local-first defensive tooling on Linux.
 
-Targeting **Summer 2027** internships in software engineering, systems/infrastructure, platform, and AI/ML systems.
+Targeting **Summer 2027** internships in software engineering, systems/infrastructure, and platform.
 
 ## Focus
 
-- Defensive security / local hardening (secret-leak scans, permission checks, `/proc` hygiene — not offensive tooling)
-- Linux systems programming and process introspection
-- Python, C++, data structures and algorithms
-- Practical ML training and evaluation loops
+- Storage engines and systems programming (LSM-trees, WAL, crash recovery)
+- Linux `/proc` and defensive local tooling (not offensive security)
+- Rust, C++17, Python
+- Data structures and algorithms (deliberate practice)
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| [watchwire](https://github.com/maxmccutcheon59/watchwire) | **Flagship** (`v0.4.0`) — local-first defensive CLI + Action + pre-commit; policy packs, JSON/SARIF secret scan, `/proc` hygiene, permission checks |
-| [sysguard](https://github.com/maxmccutcheon59/sysguard) | (`v0.2.0`) — Linux runtime visibility + defensive policy checks; JSON CLI for `proc` / `ports` / `check` |
-| [syslens](https://github.com/maxmccutcheon59/syslens) | (`v0.2.0`) — `/proc` introspection CLI; module split, `--json`, sort/filter/limit |
-| [proclight](https://github.com/maxmccutcheon59/proclight) | (`v0.2.0`) — C++17 Linux `/proc` process lister; `--json`, CMake + CI |
-| [traintrack](https://github.com/maxmccutcheon59/traintrack) | (`v0.2.0`) — minimal PyTorch train → checkpoint → eval; smoke config + eval `--json` |
-| [forgepath](https://github.com/maxmccutcheon59/forgepath) | (`v0.3.0`) — local SQLite internship tracker; init/stats, follow-ups, CSV/JSON |
-| [grindpath](https://github.com/maxmccutcheon59/grindpath) | (`v0.1.0`) — structured DSA practice with complexity notes + pytest |
+| Project | What it is |
+|---------|------------|
+| [spindle](https://github.com/maxmccutcheon59/spindle) | **Systems deep-dive** — LSM-tree KV store in Rust (WAL, SSTables, leveled compaction, MVCC, crash tests) |
+| [watchwire](https://github.com/maxmccutcheon59/watchwire) | Local-first defensive CLI — secret scan (JSON/SARIF), `/proc` hygiene, permission checks; Action + pre-commit |
+| [proclight](https://github.com/maxmccutcheon59/proclight) | Minimal C++17 `/proc` process lister — injectable fixtures, `--json`, CMake + CI |
+| [grindpath](https://github.com/maxmccutcheon59/grindpath) | Structured DSA practice — original solutions with complexity notes + pytest |
+| [forgepath](https://github.com/maxmccutcheon59/forgepath) | Local SQLite internship tracker — status history, follow-ups, import/export |
+| [traintrack](https://github.com/maxmccutcheon59/traintrack) | Minimal PyTorch train → checkpoint → eval pipeline |
+
+Archived earlier experiments (superseded by the projects above): [sysguard](https://github.com/maxmccutcheon59/sysguard), [syslens](https://github.com/maxmccutcheon59/syslens).
 
 ## Contact
 
