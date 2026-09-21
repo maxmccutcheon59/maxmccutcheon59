@@ -16,6 +16,7 @@ Seeking **Summer 2027** software engineering / systems internships.
 | [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | (`v0.1.0`) — from-scratch tiny GPT demo (TinyStories-related); WRITEUP + CPU configs |
 | [simreach](https://github.com/maxmccutcheon59/simreach) | (`v0.2.0`) — ROS 2 / Gazebo vision-guided sim scaffold + BOM (no hardware) |
 | [sandrail](https://github.com/maxmccutcheon59/sandrail) | (`v0.1.0`) — local-first AI eval harness / agent sandbox CLI |
+| [twistdiff](https://github.com/maxmccutcheon59/twistdiff) | (`v0.1.0`) — ODE integrator + PID control demos (numpy) |
 | [clubdesk](https://github.com/maxmccutcheon59/clubdesk) | (`v0.2.0`) — local SQLite club ops (members/events/RSVPs); DRAFT privacy stubs |
 | [clubdesk-lora](https://github.com/maxmccutcheon59/clubdesk-lora) | (`v0.1.0`) — CPU LoRA + Gradio for club announcement/RSVP drafts |
 
