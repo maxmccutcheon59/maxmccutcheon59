@@ -15,6 +15,7 @@ Seeking **Summer 2027** software engineering / systems internships.
 | [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | (`v0.1.0`) — from-scratch PyTorch DDPM (Ho et al. 2020); WRITEUP + CPU configs |
 | [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | (`v0.1.0`) — from-scratch tiny GPT demo (TinyStories-related); WRITEUP + CPU configs |
 | [simreach](https://github.com/maxmccutcheon59/simreach) | (`v0.1.0`) — ROS 2 / Gazebo vision-guided sim scaffold + BOM (no hardware) |
+| [sandrail](https://github.com/maxmccutcheon59/sandrail) | (`v0.1.0`) — local-first AI eval harness / agent sandbox CLI |
 | [clubdesk](https://github.com/maxmccutcheon59/clubdesk) | (`v0.1.0`) — local SQLite club ops (members/events/RSVPs); DRAFT privacy stubs |
 
 ## Contact
