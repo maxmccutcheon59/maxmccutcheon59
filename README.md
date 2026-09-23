@@ -15,7 +15,7 @@ Targeting **Summer 2027** internships in software engineering, systems/infrastru
 
 | Project | What it is |
 |---------|------------|
-| [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorized work OS — writs, runtime, ledger. Software robots and agents have to call before they act |
+| [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorization and audit kernel for mixed robot and agent fleets |
 | [sandrail](https://github.com/maxmccutcheon59/sandrail) | Local-first AI eval harness / agent sandbox CLI — [site](https://maxmccutcheon59.github.io/sandrail-site/) |
 | [watchwire](https://github.com/maxmccutcheon59/watchwire) | Defensive CLI + GitHub Action / pre-commit: secret scan (JSON/SARIF), `/proc` hygiene, permissions |
 | [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | From-scratch PyTorch DDPM (Ho et al., 2020) |
