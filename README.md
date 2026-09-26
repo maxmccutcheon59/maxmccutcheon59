@@ -1,36 +1,24 @@
 # Max McCutcheon
 
-CS sophomore at James Madison University. Systems software, defensive tooling, and from-scratch ML.
+Computer Science and Mathematics at James Madison University. I build AI software and the systems underneath it: storage engines, authorization and evaluation for AI agents and robots, and security tooling.
 
-Targeting **Summer 2027** internships in software engineering, systems/infrastructure, and AI/ML systems.
+**Now:** building AI software that turns ship repair crew findings into condition reports and change requests, starting with contractors in Hampton Roads.
 
-## Focus
+**Open to:** Summer 2027 internships in software engineering, infrastructure, and AI/ML systems.
 
-- Linux systems and local-first security tooling
-- Agent eval / sandbox harnesses
-- From-scratch deep learning (diffusion, small transformers)
-- Simulation and control (ROS 2, ODE/PID)
+## Selected work
 
-## Featured
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [spindle](https://github.com/maxmccutcheon59/spindle) | LSM-tree key-value storage engine with a write-ahead log, SSTables, leveled compaction, and MVCC | Rust |
+| [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorization, execution, and audit kernel for mixed robot and agent fleets, with a hash-chained ledger | Python |
+| [sandrail](https://github.com/maxmccutcheon59/sandrail) | Local-first eval harness and sandbox for AI agents, secure by default | Python |
+| [watchwire](https://github.com/maxmccutcheon59/watchwire) | Defensive CLI, GitHub Action, and pre-commit hook: secret scanning with SARIF output, `/proc` hygiene, file permissions | Python |
+| [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | Denoising diffusion model (Ho et al., 2020) implemented from scratch | PyTorch |
+| [simreach](https://github.com/maxmccutcheon59/simreach) | Vision-guided robot approach in simulation, with a unit-tested core | Python, ROS 2, Gazebo |
 
-| Project | What it is |
-|---------|------------|
-| [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorization and audit kernel for mixed robot and agent fleets |
-| [sandrail](https://github.com/maxmccutcheon59/sandrail) | Local-first AI eval harness / agent sandbox CLI — [site](https://maxmccutcheon59.github.io/sandrail-site/) |
-| [watchwire](https://github.com/maxmccutcheon59/watchwire) | Defensive CLI + GitHub Action / pre-commit: secret scan (JSON/SARIF), `/proc` hygiene, permissions |
-| [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | From-scratch PyTorch DDPM (Ho et al., 2020) |
-| [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | From-scratch tiny GPT demo related to TinyStories (Eldan & Li, 2023) |
-| [syslens](https://github.com/maxmccutcheon59/syslens) | Linux `/proc` introspection CLI (stdlib-only) |
-| [simreach](https://github.com/maxmccutcheon59/simreach) | ROS 2 + Gazebo vision-guided approach scaffold (sim-first) |
-| [clubdesk](https://github.com/maxmccutcheon59/clubdesk) | Local SQLite CLI for club ops (members, events, RSVPs) |
-| [twistdiff](https://github.com/maxmccutcheon59/twistdiff) | Lightweight ODE integration + PID control demos |
-
-## Also noteworthy
-
-- [spindle](https://github.com/maxmccutcheon59/spindle) — LSM-tree key-value engine (WAL, SSTables, compaction, MVCC)
-- [rail](https://github.com/maxmccutcheon59/rail) — flight recorder / permissions / replay for AI agents
-- [proclight](https://github.com/maxmccutcheon59/proclight) — minimal C++ read-only `/proc` process lister
+Also: [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) (a small GPT built from scratch), [twistdiff](https://github.com/maxmccutcheon59/twistdiff) (ODE integration and PID control), and [trailboard](https://github.com/maxmccutcheon59/trailboard) (a React and TypeScript app).
 
 ## Contact
 
-[GitHub](https://github.com/maxmccutcheon59) · [LinkedIn](https://www.linkedin.com/in/max-mccutcheon-785399394/) · maxmccutcheon59@gmail.com
+[MaxMcCutcheon1@outlook.com](mailto:MaxMcCutcheon1@outlook.com) or [LinkedIn](https://www.linkedin.com/in/max-mccutcheon-785399394/)
