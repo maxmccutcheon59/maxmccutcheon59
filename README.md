@@ -15,20 +15,17 @@ Targeting **Summer 2027** internships in software engineering, systems/infrastru
 
 | Project | What it is |
 |---------|------------|
-| [spindle](https://github.com/maxmccutcheon59/spindle) | **Flagship systems** — LSM-tree key-value engine in Rust (WAL, SSTables, leveled compaction, MVCC) |
+| [spindle](https://github.com/maxmccutcheon59/spindle) | **Flagship systems** — LSM-tree key-value engine in Rust (WAL, SSTables, leveled compaction, MVCC) — [site](https://maxmccutcheon59.github.io/spindle/) |
 | [sandrail](https://github.com/maxmccutcheon59/sandrail) | Local-first AI eval harness / agent sandbox CLI — [site](https://maxmccutcheon59.github.io/sandrail-site/) |
+| [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorization, execution, and hash-chained audit kernel for robot and agent fleets |
 | [watchwire](https://github.com/maxmccutcheon59/watchwire) | Defensive CLI + GitHub Action / pre-commit: secret scan (JSON/SARIF), `/proc` hygiene, permissions |
 | [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | From-scratch PyTorch DDPM (Ho et al., 2020) |
-| [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | From-scratch tiny GPT demo related to TinyStories (Eldan & Li, 2023) |
-| [syslens](https://github.com/maxmccutcheon59/syslens) | Linux `/proc` introspection CLI (stdlib-only) |
-| [simreach](https://github.com/maxmccutcheon59/simreach) | ROS 2 + Gazebo vision-guided approach scaffold (sim-first) |
-| [rail](https://github.com/maxmccutcheon59/rail) | Flight recorder, permissions, and replay for AI agents |
+| [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | From-scratch GPT trained on TinyStories (Eldan & Li, 2023), CPU-friendly |
+| [simreach](https://github.com/maxmccutcheon59/simreach) | Vision-guided robot approach in ROS 2 + Gazebo, sim-first with a unit-tested core |
 
 ## Also noteworthy
 
-- [clubdesk](https://github.com/maxmccutcheon59/clubdesk) — local SQLite club ops (members, events, RSVPs)
 - [twistdiff](https://github.com/maxmccutcheon59/twistdiff) — ODE integration + PID control demos
-- [proclight](https://github.com/maxmccutcheon59/proclight) — minimal C++ read-only `/proc` process lister
 
 ## Contact
 
