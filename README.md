@@ -15,7 +15,7 @@ Looking for **Summer 2027** internships in software engineering, systems/infrast
 | [sandrail](https://github.com/maxmccutcheon59/sandrail) | Local-first eval harness and sandbox for AI agents — network denied by default, secret redaction. 56 tests. [Site](https://maxmccutcheon59.github.io/sandrail-site/) |
 | [silex-os](https://github.com/maxmccutcheon59/silex-os) | Authorization, execution, and hash-chained audit kernel for mixed robot and agent fleets |
 | [ddpm-scratch](https://github.com/maxmccutcheon59/ddpm-scratch) | Denoising diffusion (Ho et al., 2020) implemented from scratch in PyTorch |
-| [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | Small GPT trained from scratch on TinyStories (Eldan & Li, 2023), CPU-friendly |
+| [tinystories-scratch](https://github.com/maxmccutcheon59/tinystories-scratch) | Small GPT built from scratch in PyTorch for TinyStories (Eldan & Li, 2023); runs on CPU with an offline demo dataset |
 | [simreach](https://github.com/maxmccutcheon59/simreach) | Vision-guided robot approach in ROS 2 and Gazebo, simulation first with a unit-tested core |
 
 ## Also
